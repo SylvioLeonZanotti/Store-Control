@@ -57,6 +57,23 @@ app/
 - **Facilidade de Deploy:** Estrutura pronta para deploy rápido em VPS ou cloud.
 - **Código limpo e boas práticas:** Seguindo padrões REST e organização do código.
 
+## 📊 Painel Administrativo
+
+O sistema conta com um **Painel Administrativo completo**, pensado para oferecer praticidade e controle total sobre o negócio:
+
+- **Dashboard de Estatísticas**: Visualização gráfica das vendas, estoque, clientes ativos, e muito mais em tempo real.
+- **Gestão Centralizada**: Acesse e edite rapidamente cadastros de clientes, fornecedores e produtos.
+- **Relatórios Personalizados**: Gere relatórios filtrados por período, categoria, clientes ou produtos.
+- **Estabilidade e Segurança**: Operações administrativas protegidas por autenticação, garantindo segurança dos dados.
+- **Ações Rápidas**: Botões de atalho para ações comuns, como envio de nota fiscal, contato com cliente e atualização de estoque.
+- **Alertas e Notificações**: Receba avisos automáticos sobre estoque baixo, aniversários de clientes, inatividade de clientes, entre outros.
+- **Interface Responsiva**: Utilização intuitiva, adaptada para desktop, notebook e dispositivos móveis.
+
+O painel foi desenvolvido com foco em **eficiência**, **usabilidade** e **estabilidade**, permitindo que qualquer gestor tenha uma visão ampla do negócio e possa agir de forma rápida e assertiva.
+
+  ![image](https://github.com/user-attachments/assets/7085d483-64ff-467d-aec1-1da628f7fb02)
+
+
 ## 💼 Contato Comercial
 
 Interessado em adquirir o sistema ou desenvolver soluções personalizadas para o seu negócio?  
